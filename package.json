@@ -1,0 +1,14 @@
+{
+  "name": "32-01-19_expresscalculatorexercise",
+  "version": "1.0.0",
+  "description": "Statistical operations (mean, median, and mode) calculator application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Geist",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
